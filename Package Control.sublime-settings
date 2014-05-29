@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Emmet",
+		"HTML5",
+		"jQuery",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass"
+	]
+}

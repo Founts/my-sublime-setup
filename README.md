@@ -8,5 +8,11 @@ The idea here is that you fine tune your editor setup and you are productive wit
 ##Files
 This repo currently has Sublime Text packages and preferences files.
 
+##Package Explanation
+coming soon
+
+##Preferences Explanation
+coming soon
+
 ##TODO
 Create a script which copies the files to the appropriate location in the sublime directory.
